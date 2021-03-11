@@ -2,7 +2,7 @@
 
 ## Oi, tudo bem ?
 
-Sou completamnete apaixonada pelo universo da programação. :purple_heart: <br/>
+Sou completamente apaixonada pelo universo da programação. :purple_heart: <br/>
 Sou formada pela Universidade do Estado do Pará em Tecnologia em Analise e Desenvolvimento de Sistemas. :mortar_board: 
 
  
