@@ -16,7 +16,7 @@ Sou formada pela Universidade do Estado do Pará em Tecnologia em Analise e Dese
     - CSS, JS, PHP 
 
 - :speech_balloon: Sobre mim:
-  - Gosto de tecnologias e Inglês, amo aprender, jogar, heróis, e assistir filmes e series.
+  - Amo estudar tecnologias e inglês, amo aprender, jogar e assistir filmes e series.
 
 - :mailbox_closed: Onde me encontrar: <br/>
     - Email: valeriaresco99@gmail.com <br/>
